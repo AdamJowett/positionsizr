@@ -16,7 +16,7 @@
 				<div class="col-xs-12 col-sm-9">
 					<ul>
 						<li>Home</li>
-						<li class="active">Position Sizr</li>
+						<li class="active">Position Size Calculator</li>
 						<li>About</li>
 						<li>Contact</li>
 					</ul>
@@ -27,14 +27,14 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-9">
 					<form action="">
-						Content
+						Position size calculator is
 					</form>
 				</div>
 			</div>
 		</section>
-		<aside>
+		<aside class="sidebar">
 			<div class="row">
-				<div class="col-xs-12 col-sm-3">
+				<div class="col-xs-12 col-sm-3 module">
 					Sidebar
 				</div>
 			</div>
