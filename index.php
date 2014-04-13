@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Positionr - Position size calculator for Forex</title>
-		<meta name="description" content="A position size calculator for the Forex markets">
+		<meta name="description" content="A Forex position size calculator.">
 		<meta name="viewport" content="width=device-width">
 	</head>
 	<body>
