@@ -1,7 +1,0 @@
-{
-	"compilyai": {
-		"less": "css/styles.less",
-		"js": "js/custom.js",
-		"compress": true
-	}
-}
