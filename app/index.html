@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" ng-app="sizrApp" ng-controller="AppController">
+	<head lang="en" >
+		<meta charset="UTF-8">
+		<title ng-bind="windowTitle">Loading...</title>
+		<link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/app.min.css">
+		<script type="text/javascript" src="../bower_components/angular/angular.js"></script>
+	</head>
+	<body>
+		<a ui-sref="home">Home</a>
+		<a ui-sref="home.welcome">Welcome</a>
+
+		<div ui-view>Loading...</div>
+
+
+		<!-- ### JavaScript Modules. ### -->
+
+		<!-- Load vendor scripts. -->
+		<script type="text/javascript" src="../bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+		<script type="text/javascript" src="../bower_components/jquery/dist/jquery.js"></script>
+		<script type="text/javascript" src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+
+		<!-- Load AngularJS application module. -->
+		<script type="text/javascript" src="app.js"></script>
+
+		<!-- Load Controllers. -->
+		<script type="text/javascript" src="js/controllers/appController.js"></script>
+		<script type="text/javascript" src="js/controllers/welcomeController.js"></script>
+	</body>
+</html>

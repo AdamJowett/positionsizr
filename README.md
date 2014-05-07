@@ -5,7 +5,7 @@ Forex position size calculator built with
 
 - AngularJS
 - jQuery
-- Bootstrap 3.1
+- Bootstrap 3.1.1
 - Grunt
 - LESS
 
